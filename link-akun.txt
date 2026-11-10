@@ -1,2 +1,4 @@
-GitHub:https://github.com/berekanggcolab-beep Google Colab:
+GitHub: https://github.com/berekanggi-beep
+Google Colab
 https://colab.research.google.com/
+Linkedln:
