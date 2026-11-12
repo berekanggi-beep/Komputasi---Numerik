@@ -1,0 +1,6 @@
+ada beberapa daftar pertanyaan yang saya gunakan untuk penyelesaian maeode eliminasi gauss ini 
+bagaimana caranya saya  membuat algoritma penyelesain persamaan linear tiga variabel menggunakan metode eliminasi gauss
+saya membuat kode python berdasarkan algoritma
+dosen meminta saya membuat kode python beserta penjelasanya
+saya juga diminta untuk membuat langkah-langkah menyimpan dan menggungah file ke github berupa video rekaman suara saya sendiri
+saya harus menyusun kata kata dan suara yang baik untuk membuat video
