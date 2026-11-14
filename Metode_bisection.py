@@ -1,7 +1,7 @@
-# ==============================================
-# Metode Bisection - Komputasi Numerik
-# Mencari Akar Persamaan Non Linear
-# ==============================================
+ ==============================================
+ Metode Bisection - Komputasi Numerik
+ Mencari Akar Persamaan Non Linear
+==============================================
 
 import math
 
