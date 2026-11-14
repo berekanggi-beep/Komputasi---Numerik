@@ -1,6 +1,0 @@
-ada beberapa pertanyaan yang saya gunakan untuk penyelesaian metode bisection ini
-bagaimana caranya membuat algoritma pencarian akar persamaan non-linear menggunakan metode bisection
-saya membuat kode python berdasarkan algoritma tersebut
-saya diminta membuat kode python beserta penjelasannya
-saya juga diminta untuk membuat langkah-langkah menyimpan dan mengunggah file ke github berupa video rekaman suara saya sendiri
-saya menyusun kata-kata dan penjelasan yang saya pahami sendiri untuk membuat video penjelasan
